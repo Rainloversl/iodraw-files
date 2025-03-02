@@ -83,7 +83,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-61" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="846.5" y="602" width="420" height="130" as="geometry" />
+          <mxGeometry x="840" y="700" width="420" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-50" value="桥墩混凝土破坏&lt;div&gt;（剥落、漏筋）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Uaya6QPT3qRnmHNDJKRl-61">
           <mxGeometry y="70" width="120" height="60" as="geometry" />
@@ -96,16 +96,6 @@
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-53" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" edge="1" parent="Uaya6QPT3qRnmHNDJKRl-61" source="Uaya6QPT3qRnmHNDJKRl-54" target="Uaya6QPT3qRnmHNDJKRl-51">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Uaya6QPT3qRnmHNDJKRl-75" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="Uaya6QPT3qRnmHNDJKRl-61" source="Uaya6QPT3qRnmHNDJKRl-54">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="231.5" y="-14" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Uaya6QPT3qRnmHNDJKRl-76" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Uaya6QPT3qRnmHNDJKRl-75">
-          <mxGeometry x="0.1597" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-54" value="病害影响量化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Uaya6QPT3qRnmHNDJKRl-61">
           <mxGeometry x="150" width="120" height="42" as="geometry" />
