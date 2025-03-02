@@ -77,7 +77,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-88" value="改进层次分析法&lt;div&gt;（基于服役年限）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="468" y="756" width="120" height="42" as="geometry" />
+          <mxGeometry x="448" y="756" width="120" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-125" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Uaya6QPT3qRnmHNDJKRl-92" target="Uaya6QPT3qRnmHNDJKRl-88">
           <mxGeometry relative="1" as="geometry" />
@@ -87,12 +87,6 @@
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-92" value="数据评估与分析层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="759" y="693" width="120" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="Uaya6QPT3qRnmHNDJKRl-134" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Uaya6QPT3qRnmHNDJKRl-95" target="Uaya6QPT3qRnmHNDJKRl-121">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Uaya6QPT3qRnmHNDJKRl-135" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Uaya6QPT3qRnmHNDJKRl-95" target="Uaya6QPT3qRnmHNDJKRl-124">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-95" value="智能评估系统&lt;div&gt;（基于MaxKB知识库及Qwen-Long大模型）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="924" y="756" width="267" height="42" as="geometry" />
@@ -249,7 +243,7 @@
           <mxGeometry x="1191" y="826" width="140" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-122" value="生命周期预测模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="587" y="826" width="120" height="42" as="geometry" />
+          <mxGeometry x="588" y="826" width="120" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-124" value="数据库&lt;div&gt;（数据管理与保存）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1344" y="826" width="140" height="42" as="geometry" />
