@@ -88,6 +88,12 @@
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-137" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Uaya6QPT3qRnmHNDJKRl-95" target="Uaya6QPT3qRnmHNDJKRl-120">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Uaya6QPT3qRnmHNDJKRl-138" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Uaya6QPT3qRnmHNDJKRl-95" target="Uaya6QPT3qRnmHNDJKRl-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uaya6QPT3qRnmHNDJKRl-139" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Uaya6QPT3qRnmHNDJKRl-95" target="Uaya6QPT3qRnmHNDJKRl-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-95" value="智能评估系统&lt;div&gt;（基于MaxKB知识库及Qwen-Long大模型）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="924" y="756" width="267" height="42" as="geometry" />
         </mxCell>
