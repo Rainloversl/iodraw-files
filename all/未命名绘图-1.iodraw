@@ -23,7 +23,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-13" value="数据采集层&lt;div style=&quot;font-size: 16px;&quot;&gt;（人工、光学、声学）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="Uaya6QPT3qRnmHNDJKRl-58">
-          <mxGeometry x="154" y="14" width="154" height="42" as="geometry" />
+          <mxGeometry x="154" y="14" width="182" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;fontSize=16;" edge="1" parent="Uaya6QPT3qRnmHNDJKRl-58" source="Uaya6QPT3qRnmHNDJKRl-13" target="Uaya6QPT3qRnmHNDJKRl-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -49,7 +49,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-3" value="水下结构常见病害及成因分析" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="728" y="126" width="182" height="42" as="geometry" />
+          <mxGeometry x="696" y="126" width="264" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-80" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;fontSize=16;" edge="1" parent="1" source="Uaya6QPT3qRnmHNDJKRl-6" target="Uaya6QPT3qRnmHNDJKRl-23">
           <mxGeometry relative="1" as="geometry">
