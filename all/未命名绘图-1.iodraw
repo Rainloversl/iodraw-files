@@ -25,12 +25,6 @@
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-9" value="水下摄影增强" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="532" y="364" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Uaya6QPT3qRnmHNDJKRl-11" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="296.0975609756099" y="423.9999999999998" as="sourcePoint" />
-            <mxPoint x="280" y="578" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
