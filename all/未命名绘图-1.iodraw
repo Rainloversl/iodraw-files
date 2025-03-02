@@ -169,7 +169,7 @@
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-103" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Uaya6QPT3qRnmHNDJKRl-102">
           <mxGeometry width="462" height="168" as="geometry" />
         </mxCell>
-        <mxCell id="Uaya6QPT3qRnmHNDJKRl-104" value="工程实例检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Uaya6QPT3qRnmHNDJKRl-102">
+        <mxCell id="Uaya6QPT3qRnmHNDJKRl-104" value="工程实例检测&lt;div&gt;（上下行桥同环境不同服役年限）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Uaya6QPT3qRnmHNDJKRl-102">
           <mxGeometry x="21" y="84" width="120" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-105" value="三维声呐扫描&lt;div&gt;（几何形态）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Uaya6QPT3qRnmHNDJKRl-102">
