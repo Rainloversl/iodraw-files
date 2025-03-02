@@ -61,7 +61,7 @@
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-33" value="声学检测数据&lt;div&gt;（构件变形，半径）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Uaya6QPT3qRnmHNDJKRl-57">
           <mxGeometry x="176" y="84" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Uaya6QPT3qRnmHNDJKRl-34" value="水下摄影增强&lt;div&gt;（表观图像）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Uaya6QPT3qRnmHNDJKRl-57">
+        <mxCell id="Uaya6QPT3qRnmHNDJKRl-34" value="光学检测数据&lt;div&gt;（表观剥落、裂缝）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Uaya6QPT3qRnmHNDJKRl-57">
           <mxGeometry x="326" y="84" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-35" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Uaya6QPT3qRnmHNDJKRl-57" source="Uaya6QPT3qRnmHNDJKRl-36" target="Uaya6QPT3qRnmHNDJKRl-33">
