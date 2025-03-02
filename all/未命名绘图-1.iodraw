@@ -8,36 +8,36 @@
           <mxGeometry x="392" y="476" width="910" height="252" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-58" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="602" y="298" width="518" height="168" as="geometry" />
+          <mxGeometry x="602" y="298" width="462" height="168" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Uaya6QPT3qRnmHNDJKRl-58">
-          <mxGeometry width="518" height="168" as="geometry" />
+          <mxGeometry width="462" height="168" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-7" value="潜水作业&lt;div&gt;（视觉检查）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Uaya6QPT3qRnmHNDJKRl-58">
-          <mxGeometry x="23.545454545454543" y="84" width="134.54545454545453" height="60" as="geometry" />
+          <mxGeometry x="21" y="84" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-8" value="三维声呐扫描&lt;div&gt;（几何形态）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Uaya6QPT3qRnmHNDJKRl-58">
-          <mxGeometry x="191.72727272727272" y="84" width="134.54545454545453" height="60" as="geometry" />
+          <mxGeometry x="171" y="84" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-9" value="水下摄影增强&lt;div&gt;（表观图像）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Uaya6QPT3qRnmHNDJKRl-58">
-          <mxGeometry x="359.9090909090909" y="84" width="134.54545454545453" height="60" as="geometry" />
+          <mxGeometry x="321" y="84" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-16" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Uaya6QPT3qRnmHNDJKRl-58" source="Uaya6QPT3qRnmHNDJKRl-13" target="Uaya6QPT3qRnmHNDJKRl-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-13" value="数据采集层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Uaya6QPT3qRnmHNDJKRl-58">
-          <mxGeometry x="191.72727272727272" y="14" width="134.54545454545453" height="42" as="geometry" />
+          <mxGeometry x="171" y="14" width="120" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Uaya6QPT3qRnmHNDJKRl-58" source="Uaya6QPT3qRnmHNDJKRl-13" target="Uaya6QPT3qRnmHNDJKRl-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="146.87878787878788" y="190" as="sourcePoint" />
-            <mxPoint x="202.9393939393939" y="140" as="targetPoint" />
+            <mxPoint x="131" y="190" as="sourcePoint" />
+            <mxPoint x="181" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Uaya6QPT3qRnmHNDJKRl-58" target="Uaya6QPT3qRnmHNDJKRl-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="256.75757575757575" y="56" as="sourcePoint" />
-            <mxPoint x="202.9393939393939" y="140" as="targetPoint" />
+            <mxPoint x="229" y="56" as="sourcePoint" />
+            <mxPoint x="181" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Uaya6QPT3qRnmHNDJKRl-1" target="Uaya6QPT3qRnmHNDJKRl-3">
@@ -120,6 +120,9 @@
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-72" value="数据处理与量化层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="773" y="490" width="120" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="Uaya6QPT3qRnmHNDJKRl-77" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Uaya6QPT3qRnmHNDJKRl-8" target="Uaya6QPT3qRnmHNDJKRl-72">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
