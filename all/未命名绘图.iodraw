@@ -4,8 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QTDkImSu91OCEGNAg1Ol-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QTDkImSu91OCEGNAg1Ol-1" target="QTDkImSu91OCEGNAg1Ol-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QTDkImSu91OCEGNAg1Ol-1" value="桥梁水下结构技术状况评估" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="300" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QTDkImSu91OCEGNAg1Ol-2" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="430" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
