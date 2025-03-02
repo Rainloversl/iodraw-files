@@ -132,7 +132,7 @@
             <mxPoint x="379" y="-56" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Uaya6QPT3qRnmHNDJKRl-85" value="提供需要数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Uaya6QPT3qRnmHNDJKRl-84">
+        <mxCell id="Uaya6QPT3qRnmHNDJKRl-85" value="提供数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Uaya6QPT3qRnmHNDJKRl-84">
           <mxGeometry relative="1" as="geometry">
             <mxPoint y="-16" as="offset" />
           </mxGeometry>
