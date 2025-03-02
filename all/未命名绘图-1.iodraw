@@ -75,10 +75,10 @@
           <mxGeometry x="924" y="756" width="267" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-96" value="病害动态扣分模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="322" y="833" width="120" height="42" as="geometry" />
+          <mxGeometry x="371" y="826" width="120" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-97" value="部件动态权重" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="826" width="120" height="42" as="geometry" />
+          <mxGeometry x="546" y="826" width="120" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-98" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="371" y="392" width="896" height="238" as="geometry" />
@@ -167,7 +167,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-99" value="智能评估系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="729" y="826" width="120" height="42" as="geometry" />
+          <mxGeometry x="707" y="826" width="120" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-114" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Uaya6QPT3qRnmHNDJKRl-103" target="Uaya6QPT3qRnmHNDJKRl-87">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -217,10 +217,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-119" value="智能评估系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="896" y="826" width="120" height="42" as="geometry" />
+          <mxGeometry x="854" y="826" width="120" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-120" value="智能评估系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="826" width="120" height="42" as="geometry" />
+          <mxGeometry x="1008" y="826" width="120" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-121" value="智能评估系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1218" y="826" width="120" height="42" as="geometry" />
