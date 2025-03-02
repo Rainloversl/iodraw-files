@@ -10,14 +10,23 @@
         <mxCell id="QTDkImSu91OCEGNAg1Ol-1" value="桥梁水下结构技术状况评估" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="40" width="220" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="QTDkImSu91OCEGNAg1Ol-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QTDkImSu91OCEGNAg1Ol-2" target="QTDkImSu91OCEGNAg1Ol-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QTDkImSu91OCEGNAg1Ol-2" value="病害种类及成因研究" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QTDkImSu91OCEGNAg1Ol-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="240" width="590" height="230" as="geometry" />
         </mxCell>
+        <mxCell id="QTDkImSu91OCEGNAg1Ol-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QTDkImSu91OCEGNAg1Ol-7" target="QTDkImSu91OCEGNAg1Ol-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QTDkImSu91OCEGNAg1Ol-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QTDkImSu91OCEGNAg1Ol-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
