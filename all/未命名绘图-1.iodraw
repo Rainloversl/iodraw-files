@@ -223,7 +223,7 @@
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-34" value="光学检测数据&lt;div style=&quot;font-size: 16px;&quot;&gt;（表观剥落、裂缝）&lt;/div&gt;" style="rounded=0;html=1;fontFamily=宋体;fontSize=16;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="300.74857142857144" y="478" width="106.93" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Uaya6QPT3qRnmHNDJKRl-38" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;fontSize=16;" edge="1" parent="1" target="Uaya6QPT3qRnmHNDJKRl-34">
+        <mxCell id="Uaya6QPT3qRnmHNDJKRl-38" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;fontSize=16;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="Uaya6QPT3qRnmHNDJKRl-34" source="Uaya6QPT3qRnmHNDJKRl-36">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="226.8214285714286" y="450" as="sourcePoint" />
             <mxPoint x="188.25000000000006" y="534" as="targetPoint" />
@@ -253,7 +253,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-54" value="病害影响量化&lt;div style=&quot;font-size: 16px;&quot;&gt;（有限元）&lt;/div&gt;" style="rounded=0;html=1;fontFamily=宋体;fontSize=16;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="503.99999999999994" y="396" width="119.46" height="42" as="geometry" />
+          <mxGeometry x="533.25" y="408" width="119.46" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-55" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" edge="1" parent="1" source="Uaya6QPT3qRnmHNDJKRl-54" target="Uaya6QPT3qRnmHNDJKRl-50">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
