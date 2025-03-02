@@ -88,16 +88,10 @@
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-92" value="数据评估与分析层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="759" y="693" width="120" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="Uaya6QPT3qRnmHNDJKRl-131" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Uaya6QPT3qRnmHNDJKRl-95" target="Uaya6QPT3qRnmHNDJKRl-99">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Uaya6QPT3qRnmHNDJKRl-132" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Uaya6QPT3qRnmHNDJKRl-95" target="Uaya6QPT3qRnmHNDJKRl-119">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Uaya6QPT3qRnmHNDJKRl-133" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Uaya6QPT3qRnmHNDJKRl-95" target="Uaya6QPT3qRnmHNDJKRl-120">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-134" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Uaya6QPT3qRnmHNDJKRl-95" target="Uaya6QPT3qRnmHNDJKRl-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uaya6QPT3qRnmHNDJKRl-135" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Uaya6QPT3qRnmHNDJKRl-95" target="Uaya6QPT3qRnmHNDJKRl-124">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-95" value="智能评估系统&lt;div&gt;（基于MaxKB知识库及Qwen-Long大模型）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
