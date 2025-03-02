@@ -100,7 +100,7 @@
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-141" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=宋体;" edge="1" parent="1" source="Uaya6QPT3qRnmHNDJKRl-95" target="Uaya6QPT3qRnmHNDJKRl-124">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Uaya6QPT3qRnmHNDJKRl-95" value="智能评估系统&lt;div&gt;（基于MaxKB知识库及Qwen-Long大模型）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="Uaya6QPT3qRnmHNDJKRl-95" value="智能评估系统&lt;div&gt;（基于&lt;font face=&quot;Times New Roman&quot;&gt;MaxKB&lt;/font&gt;知识库及&lt;font face=&quot;Times New Roman&quot;&gt;Qwen-Long&lt;/font&gt;大模型）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="979.5" y="742" width="267" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-96" value="病害动态扣分模型" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
