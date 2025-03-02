@@ -175,7 +175,7 @@
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-105" value="改进AHP法评价与规范方法对比" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Uaya6QPT3qRnmHNDJKRl-102">
           <mxGeometry x="171" y="84" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Uaya6QPT3qRnmHNDJKRl-106" value="智能评估系统评估结果对比" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Uaya6QPT3qRnmHNDJKRl-102">
+        <mxCell id="Uaya6QPT3qRnmHNDJKRl-106" value="智能评估系统评估结果验证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Uaya6QPT3qRnmHNDJKRl-102">
           <mxGeometry x="321" y="84" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-107" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Uaya6QPT3qRnmHNDJKRl-102" source="Uaya6QPT3qRnmHNDJKRl-108" target="Uaya6QPT3qRnmHNDJKRl-105">
