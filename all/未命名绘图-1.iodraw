@@ -169,7 +169,7 @@
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-99" value="数据处理模块&lt;div&gt;（图片、点云）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="742" y="826" width="120" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="Uaya6QPT3qRnmHNDJKRl-114" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Uaya6QPT3qRnmHNDJKRl-103" target="Uaya6QPT3qRnmHNDJKRl-87">
+        <mxCell id="Uaya6QPT3qRnmHNDJKRl-114" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.205;entryY=1.023;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Uaya6QPT3qRnmHNDJKRl-103" target="Uaya6QPT3qRnmHNDJKRl-87">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="658" y="778" as="sourcePoint" />
             <mxPoint x="708" y="728" as="targetPoint" />
