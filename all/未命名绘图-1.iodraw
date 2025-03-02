@@ -200,7 +200,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-150" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="24" y="584.5" width="732" height="264" as="geometry" />
+          <mxGeometry x="36.4" y="585" width="732" height="264" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-87" value="" style="rounded=0;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=宋体;fontSize=16;whiteSpace=wrap;" vertex="1" parent="Uaya6QPT3qRnmHNDJKRl-150">
           <mxGeometry width="732" height="264" as="geometry" />
@@ -214,7 +214,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-88" value="改进层次分析法&lt;div style=&quot;font-size: 16px;&quot;&gt;（基于服役年限）&lt;/div&gt;" style="rounded=0;html=1;fontFamily=宋体;fontSize=16;whiteSpace=wrap;" vertex="1" parent="Uaya6QPT3qRnmHNDJKRl-150">
-          <mxGeometry x="65.10576923076921" y="82.5" width="156.01923076923075" height="49.5" as="geometry" />
+          <mxGeometry x="65.11" y="82.5" width="210.89" height="49.5" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-125" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=宋体;fontSize=16;" edge="1" parent="Uaya6QPT3qRnmHNDJKRl-150" source="Uaya6QPT3qRnmHNDJKRl-92" target="Uaya6QPT3qRnmHNDJKRl-88">
           <mxGeometry relative="1" as="geometry" />
