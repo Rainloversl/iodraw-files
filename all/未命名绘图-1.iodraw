@@ -8,7 +8,7 @@
           <mxGeometry x="595" y="910" width="462" height="168" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-58" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="588" y="224" width="462" height="168" as="geometry" />
+          <mxGeometry x="588" y="196" width="462" height="168" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Uaya6QPT3qRnmHNDJKRl-58">
           <mxGeometry width="462" height="168" as="geometry" />
@@ -52,7 +52,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-3" value="水下结构常见病害及成因分析" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="759" y="126" width="120" height="70" as="geometry" />
+          <mxGeometry x="728" y="126" width="182" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-80" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Uaya6QPT3qRnmHNDJKRl-6" target="Uaya6QPT3qRnmHNDJKRl-23">
           <mxGeometry relative="1" as="geometry">
