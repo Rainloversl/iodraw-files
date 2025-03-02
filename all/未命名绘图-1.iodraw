@@ -83,7 +83,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-61" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="854" y="520" width="420" height="130" as="geometry" />
+          <mxGeometry x="854" y="504" width="420" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-50" value="桥墩混凝土破坏&lt;div&gt;（剥落、漏筋）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Uaya6QPT3qRnmHNDJKRl-61">
           <mxGeometry y="70" width="120" height="60" as="geometry" />
