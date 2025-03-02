@@ -78,7 +78,7 @@
           <mxGeometry x="322" y="833" width="120" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-97" value="部件动态权重" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="489" y="833" width="120" height="42" as="geometry" />
+          <mxGeometry x="560" y="826" width="120" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-98" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="371" y="392" width="896" height="238" as="geometry" />
@@ -217,13 +217,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-119" value="智能评估系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="879" y="826" width="120" height="42" as="geometry" />
+          <mxGeometry x="896" y="826" width="120" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-120" value="智能评估系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1029" y="826" width="120" height="42" as="geometry" />
+          <mxGeometry x="1050" y="826" width="120" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-121" value="智能评估系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1180.5" y="826" width="120" height="42" as="geometry" />
+          <mxGeometry x="1218" y="826" width="120" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
