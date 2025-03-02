@@ -242,13 +242,13 @@
           <mxGeometry x="156" y="156" width="492" height="144" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-7" value="潜水作业&lt;div style=&quot;font-size: 16px;&quot;&gt;（视觉检查）&lt;/div&gt;" style="rounded=0;html=1;fontFamily=宋体;fontSize=16;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="178.36363636363637" y="234" width="127.79220779220778" height="55.714285714285715" as="geometry" />
+          <mxGeometry x="178.36" y="234" width="127.79" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-8" value="三维声呐扫描&lt;div style=&quot;font-size: 16px;&quot;&gt;（几何形态）&lt;/div&gt;" style="rounded=0;html=1;fontFamily=宋体;fontSize=16;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="338.1038961038961" y="234" width="127.79220779220778" height="55.714285714285715" as="geometry" />
+          <mxGeometry x="338.1" y="234" width="127.79" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-9" value="水下摄影增强&lt;div style=&quot;font-size: 16px;&quot;&gt;（表观图像）&lt;/div&gt;" style="rounded=0;html=1;fontFamily=宋体;fontSize=16;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="497.8441558441558" y="234" width="127.79220779220778" height="55.714285714285715" as="geometry" />
+          <mxGeometry x="497.84" y="234" width="127.79" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-16" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=16;" edge="1" parent="1" source="Uaya6QPT3qRnmHNDJKRl-13" target="Uaya6QPT3qRnmHNDJKRl-8">
           <mxGeometry relative="1" as="geometry" />
