@@ -70,7 +70,7 @@
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-60" value="" style="group;fontFamily=宋体;fontSize=16;whiteSpace=wrap;" vertex="1" connectable="0" parent="Uaya6QPT3qRnmHNDJKRl-98">
           <mxGeometry x="17.67857142857143" y="84" width="337.5000000000001" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="Uaya6QPT3qRnmHNDJKRl-32" value="点云处理&lt;div style=&quot;font-size: 16px;&quot;&gt;（分割，去噪，配准）&lt;/div&gt;" style="rounded=0;html=1;fontFamily=宋体;fontSize=16;whiteSpace=wrap;" vertex="1" parent="Uaya6QPT3qRnmHNDJKRl-60">
+        <mxCell id="Uaya6QPT3qRnmHNDJKRl-32" value="点云处理&lt;div style=&quot;font-size: 16px;&quot;&gt;（分割、去噪、配准）&lt;/div&gt;" style="rounded=0;html=1;fontFamily=宋体;fontSize=16;whiteSpace=wrap;" vertex="1" parent="Uaya6QPT3qRnmHNDJKRl-60">
           <mxGeometry y="70" width="102.85714285714289" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-33" value="声学检测数据&lt;div style=&quot;font-size: 16px;&quot;&gt;（构件变形，半径）&lt;/div&gt;" style="rounded=0;html=1;fontFamily=宋体;fontSize=16;whiteSpace=wrap;" vertex="1" parent="Uaya6QPT3qRnmHNDJKRl-60">
