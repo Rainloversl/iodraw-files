@@ -148,11 +148,14 @@
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-87" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="588" y="770" width="462" height="168" as="geometry" />
         </mxCell>
-        <mxCell id="Uaya6QPT3qRnmHNDJKRl-88" value="层次分析法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="623" y="854" width="120" height="60" as="geometry" />
+        <mxCell id="Uaya6QPT3qRnmHNDJKRl-88" value="改进层次分析法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="653" y="840" width="120" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-92" value="数据评估与分析层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="773" y="784" width="120" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="Uaya6QPT3qRnmHNDJKRl-95" value="改进层次分析法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="854" y="854" width="120" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
