@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Uaya6QPT3qRnmHNDJKRl-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="569" y="312" width="462" height="168" as="geometry" />
-        </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Uaya6QPT3qRnmHNDJKRl-1" target="Uaya6QPT3qRnmHNDJKRl-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -18,33 +15,6 @@
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-3" value="水下结构常见病害及成因分析" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="740" y="212" width="120" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="Uaya6QPT3qRnmHNDJKRl-7" value="潜水作业&lt;div&gt;（视觉检查）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="396" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Uaya6QPT3qRnmHNDJKRl-8" value="三维声呐扫描&lt;div&gt;（几何形态）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="396" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Uaya6QPT3qRnmHNDJKRl-9" value="水下摄影增强&lt;div&gt;（表观图像）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="396" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Uaya6QPT3qRnmHNDJKRl-16" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Uaya6QPT3qRnmHNDJKRl-13" target="Uaya6QPT3qRnmHNDJKRl-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Uaya6QPT3qRnmHNDJKRl-13" value="数据采集层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="326" width="120" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="Uaya6QPT3qRnmHNDJKRl-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Uaya6QPT3qRnmHNDJKRl-13" target="Uaya6QPT3qRnmHNDJKRl-7">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="700" y="502" as="sourcePoint" />
-            <mxPoint x="750" y="452" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Uaya6QPT3qRnmHNDJKRl-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="Uaya6QPT3qRnmHNDJKRl-9">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="798" y="368" as="sourcePoint" />
-            <mxPoint x="750" y="452" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-49" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="896" y="494" width="467" height="168" as="geometry" />
@@ -77,7 +47,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-57" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="350" y="494" width="467" height="168" as="geometry" />
+          <mxGeometry x="294" y="518" width="467" height="168" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="Uaya6QPT3qRnmHNDJKRl-57">
           <mxGeometry width="467" height="168" as="geometry" />
@@ -107,6 +77,39 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="234" y="56" as="sourcePoint" />
             <mxPoint x="186" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uaya6QPT3qRnmHNDJKRl-58" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="569" y="312" width="462" height="168" as="geometry" />
+        </mxCell>
+        <mxCell id="Uaya6QPT3qRnmHNDJKRl-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Uaya6QPT3qRnmHNDJKRl-58">
+          <mxGeometry width="462" height="168" as="geometry" />
+        </mxCell>
+        <mxCell id="Uaya6QPT3qRnmHNDJKRl-7" value="潜水作业&lt;div&gt;（视觉检查）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Uaya6QPT3qRnmHNDJKRl-58">
+          <mxGeometry x="21" y="84" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Uaya6QPT3qRnmHNDJKRl-8" value="三维声呐扫描&lt;div&gt;（几何形态）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Uaya6QPT3qRnmHNDJKRl-58">
+          <mxGeometry x="171" y="84" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Uaya6QPT3qRnmHNDJKRl-9" value="水下摄影增强&lt;div&gt;（表观图像）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Uaya6QPT3qRnmHNDJKRl-58">
+          <mxGeometry x="321" y="84" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Uaya6QPT3qRnmHNDJKRl-16" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Uaya6QPT3qRnmHNDJKRl-58" source="Uaya6QPT3qRnmHNDJKRl-13" target="Uaya6QPT3qRnmHNDJKRl-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uaya6QPT3qRnmHNDJKRl-13" value="数据采集层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Uaya6QPT3qRnmHNDJKRl-58">
+          <mxGeometry x="171" y="14" width="120" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="Uaya6QPT3qRnmHNDJKRl-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Uaya6QPT3qRnmHNDJKRl-58" source="Uaya6QPT3qRnmHNDJKRl-13" target="Uaya6QPT3qRnmHNDJKRl-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="131" y="190" as="sourcePoint" />
+            <mxPoint x="181" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uaya6QPT3qRnmHNDJKRl-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Uaya6QPT3qRnmHNDJKRl-58" target="Uaya6QPT3qRnmHNDJKRl-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="229" y="56" as="sourcePoint" />
+            <mxPoint x="181" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
