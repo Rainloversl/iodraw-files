@@ -13,6 +13,9 @@
         <mxCell id="QTDkImSu91OCEGNAg1Ol-2" value="病害种类及成因研究" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="150" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="QTDkImSu91OCEGNAg1Ol-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="250" width="590" height="230" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
