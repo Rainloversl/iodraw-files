@@ -112,8 +112,11 @@
             <mxPoint x="160" y="126" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Uaya6QPT3qRnmHNDJKRl-73" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Uaya6QPT3qRnmHNDJKRl-72" target="Uaya6QPT3qRnmHNDJKRl-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-72" value="数据处理与量化层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="773" y="476" width="120" height="42" as="geometry" />
+          <mxGeometry x="773" y="490" width="120" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
