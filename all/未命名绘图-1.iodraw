@@ -100,7 +100,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-13" value="数据采集层&lt;div style=&quot;font-size: 16px;&quot;&gt;（人工、光学、声学）&lt;/div&gt;" style="rounded=0;html=1;fontFamily=宋体;fontSize=16;whiteSpace=wrap;" vertex="1" parent="Uaya6QPT3qRnmHNDJKRl-145">
-          <mxGeometry x="150.15999999999997" y="13" width="193.8181818181818" height="39" as="geometry" />
+          <mxGeometry x="149.08999999999997" y="13" width="193.8181818181818" height="39" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;fontSize=16;" edge="1" parent="Uaya6QPT3qRnmHNDJKRl-145" source="Uaya6QPT3qRnmHNDJKRl-13" target="Uaya6QPT3qRnmHNDJKRl-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -200,7 +200,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-150" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="36" y="585" width="732" height="264" as="geometry" />
+          <mxGeometry x="36" y="584.5" width="732" height="264" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-87" value="" style="rounded=0;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=宋体;fontSize=16;whiteSpace=wrap;" vertex="1" parent="Uaya6QPT3qRnmHNDJKRl-150">
           <mxGeometry width="732" height="264" as="geometry" />
