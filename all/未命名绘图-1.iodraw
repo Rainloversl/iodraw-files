@@ -217,10 +217,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-119" value="数据结构化&lt;div&gt;（数据标准化及特征对齐）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="888" y="826" width="148" height="42" as="geometry" />
+          <mxGeometry x="879" y="826" width="148" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="Uaya6QPT3qRnmHNDJKRl-120" value="智能评估系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1036" y="826" width="120" height="42" as="geometry" />
+        <mxCell id="Uaya6QPT3qRnmHNDJKRl-120" value="混合推理&lt;div&gt;（规则引擎及大模型）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1036" y="826" width="126" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-121" value="智能评估系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1204" y="826" width="120" height="42" as="geometry" />
