@@ -71,7 +71,7 @@
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-96" value="病害动态扣分模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="519" y="882" width="120" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="Uaya6QPT3qRnmHNDJKRl-97" value="改进层次分析法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Uaya6QPT3qRnmHNDJKRl-97" value="部件动态权重" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="729" y="882" width="120" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-98" value="" style="group" vertex="1" connectable="0" parent="1">
