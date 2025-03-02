@@ -142,9 +142,6 @@
             <mxPoint x="826" y="532" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Uaya6QPT3qRnmHNDJKRl-86" value="" style="group;fillColor=#f8cecc;strokeColor=#b85450;container=0;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="602" y="770" width="462" height="168" as="geometry" />
-        </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-87" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="588" y="770" width="462" height="168" as="geometry" />
         </mxCell>
@@ -155,7 +152,7 @@
           <mxGeometry x="773" y="784" width="120" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-95" value="智能评估系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="854" y="854" width="120" height="42" as="geometry" />
+          <mxGeometry x="882" y="854" width="120" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
