@@ -211,7 +211,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Uaya6QPT3qRnmHNDJKRl-152" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Uaya6QPT3qRnmHNDJKRl-149" source="Uaya6QPT3qRnmHNDJKRl-54" target="Uaya6QPT3qRnmHNDJKRl-50">
+        <mxCell id="Uaya6QPT3qRnmHNDJKRl-153" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Uaya6QPT3qRnmHNDJKRl-149" source="Uaya6QPT3qRnmHNDJKRl-54" target="Uaya6QPT3qRnmHNDJKRl-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-54" value="病害影响量化&lt;div style=&quot;font-size: 16px;&quot;&gt;（有限元）&lt;/div&gt;" style="rounded=0;html=1;fontFamily=宋体;fontSize=16;whiteSpace=wrap;" vertex="1" parent="Uaya6QPT3qRnmHNDJKRl-149">
@@ -303,6 +303,12 @@
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-130" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=宋体;fontSize=16;" edge="1" parent="Uaya6QPT3qRnmHNDJKRl-150" source="Uaya6QPT3qRnmHNDJKRl-88" target="Uaya6QPT3qRnmHNDJKRl-122">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uaya6QPT3qRnmHNDJKRl-154" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Uaya6QPT3qRnmHNDJKRl-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="594.4" y="462" as="sourcePoint" />
+            <mxPoint x="594.4" y="490" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
