@@ -19,17 +19,18 @@
         <mxCell id="QTDkImSu91OCEGNAg1Ol-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="240" width="590" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="QTDkImSu91OCEGNAg1Ol-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QTDkImSu91OCEGNAg1Ol-7" target="QTDkImSu91OCEGNAg1Ol-9">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="QTDkImSu91OCEGNAg1Ol-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QTDkImSu91OCEGNAg1Ol-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="380" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="QTDkImSu91OCEGNAg1Ol-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QTDkImSu91OCEGNAg1Ol-7" target="QTDkImSu91OCEGNAg1Ol-9">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="QTDkImSu91OCEGNAg1Ol-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QTDkImSu91OCEGNAg1Ol-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="380" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="QTDkImSu91OCEGNAg1Ol-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="250" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="QTDkImSu91OCEGNAg1Ol-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
