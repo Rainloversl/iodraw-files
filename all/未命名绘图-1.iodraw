@@ -49,42 +49,6 @@
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-3" value="水下结构常见病害及成因分析" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="740" y="212" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Uaya6QPT3qRnmHNDJKRl-57" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="294" y="532" width="467" height="168" as="geometry" />
-        </mxCell>
-        <mxCell id="Uaya6QPT3qRnmHNDJKRl-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="Uaya6QPT3qRnmHNDJKRl-57">
-          <mxGeometry width="467" height="168" as="geometry" />
-        </mxCell>
-        <mxCell id="Uaya6QPT3qRnmHNDJKRl-32" value="点云处理&lt;div&gt;（分割，去噪，配准）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Uaya6QPT3qRnmHNDJKRl-57">
-          <mxGeometry x="26" y="84" width="128" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Uaya6QPT3qRnmHNDJKRl-33" value="声学检测数据&lt;div&gt;（构件变形，半径）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Uaya6QPT3qRnmHNDJKRl-57">
-          <mxGeometry x="176" y="84" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Uaya6QPT3qRnmHNDJKRl-34" value="光学检测数据&lt;div&gt;（表观剥落、裂缝）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Uaya6QPT3qRnmHNDJKRl-57">
-          <mxGeometry x="326" y="84" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Uaya6QPT3qRnmHNDJKRl-35" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Uaya6QPT3qRnmHNDJKRl-57" source="Uaya6QPT3qRnmHNDJKRl-36" target="Uaya6QPT3qRnmHNDJKRl-33">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Uaya6QPT3qRnmHNDJKRl-36" value="数据处理层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Uaya6QPT3qRnmHNDJKRl-57">
-          <mxGeometry x="176" y="14" width="120" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="Uaya6QPT3qRnmHNDJKRl-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Uaya6QPT3qRnmHNDJKRl-57" source="Uaya6QPT3qRnmHNDJKRl-36" target="Uaya6QPT3qRnmHNDJKRl-32">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="136" y="190" as="sourcePoint" />
-            <mxPoint x="186" y="140" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Uaya6QPT3qRnmHNDJKRl-38" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Uaya6QPT3qRnmHNDJKRl-57" target="Uaya6QPT3qRnmHNDJKRl-34">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="234" y="56" as="sourcePoint" />
-            <mxPoint x="186" y="140" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Uaya6QPT3qRnmHNDJKRl-49" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="868" y="532" width="467" height="168" as="geometry" />
-        </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-50" value="潜水作业&lt;div&gt;（视觉检查）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="894" y="616" width="120" height="60" as="geometry" />
         </mxCell>
@@ -110,6 +74,36 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1102" y="588" as="sourcePoint" />
             <mxPoint x="1054" y="672" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uaya6QPT3qRnmHNDJKRl-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="294" y="532" width="467" height="168" as="geometry" />
+        </mxCell>
+        <mxCell id="Uaya6QPT3qRnmHNDJKRl-32" value="点云处理&lt;div&gt;（分割，去噪，配准）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="616" width="128" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Uaya6QPT3qRnmHNDJKRl-33" value="声学检测数据&lt;div&gt;（构件变形，半径）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="616" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Uaya6QPT3qRnmHNDJKRl-34" value="光学检测数据&lt;div&gt;（表观剥落、裂缝）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="616" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Uaya6QPT3qRnmHNDJKRl-35" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Uaya6QPT3qRnmHNDJKRl-36" target="Uaya6QPT3qRnmHNDJKRl-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uaya6QPT3qRnmHNDJKRl-36" value="数据处理层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="546" width="120" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="Uaya6QPT3qRnmHNDJKRl-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Uaya6QPT3qRnmHNDJKRl-36" target="Uaya6QPT3qRnmHNDJKRl-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="722" as="sourcePoint" />
+            <mxPoint x="480" y="672" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uaya6QPT3qRnmHNDJKRl-38" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="Uaya6QPT3qRnmHNDJKRl-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="528" y="588" as="sourcePoint" />
+            <mxPoint x="480" y="672" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
