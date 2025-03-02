@@ -19,9 +19,6 @@
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="219" y="280" width="462" height="252" as="geometry" />
         </mxCell>
-        <mxCell id="Uaya6QPT3qRnmHNDJKRl-19" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Uaya6QPT3qRnmHNDJKRl-7" target="Uaya6QPT3qRnmHNDJKRl-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-7" value="潜水作业&lt;div&gt;（视觉检查）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="364" width="120" height="60" as="geometry" />
         </mxCell>
@@ -36,6 +33,12 @@
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-13" value="数据采集层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="294" width="120" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="Uaya6QPT3qRnmHNDJKRl-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="470" as="sourcePoint" />
+            <mxPoint x="400" y="420" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
