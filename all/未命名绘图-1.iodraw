@@ -13,6 +13,9 @@
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-3" value="水下结构常见病害及成因分析" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="180" width="120" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="Uaya6QPT3qRnmHNDJKRl-5" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="378" y="168" width="100" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
