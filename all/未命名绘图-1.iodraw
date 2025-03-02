@@ -57,7 +57,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-87" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="364" y="728" width="910" height="224" as="geometry" />
+          <mxGeometry x="357" y="721" width="910" height="224" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-88" value="改进层次分析法&lt;div&gt;（基于服役年限）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="639" y="812" width="120" height="42" as="geometry" />
@@ -69,10 +69,10 @@
           <mxGeometry x="909" y="812" width="120" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-96" value="病害动态扣分模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="519" y="882" width="120" height="42" as="geometry" />
+          <mxGeometry x="546" y="882" width="120" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-97" value="部件动态权重" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="729" y="882" width="120" height="42" as="geometry" />
+          <mxGeometry x="707" y="882" width="120" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-98" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="371" y="420" width="896" height="238" as="geometry" />
