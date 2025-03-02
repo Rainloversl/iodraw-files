@@ -10,6 +10,9 @@
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-1" value="桥梁水下结构技术状况评估" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="80" width="180" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Uaya6QPT3qRnmHNDJKRl-15" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Uaya6QPT3qRnmHNDJKRl-3" target="Uaya6QPT3qRnmHNDJKRl-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-3" value="水下结构常见病害及成因分析" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="180" width="120" height="70" as="geometry" />
         </mxCell>
@@ -25,7 +28,7 @@
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-9" value="水下摄影增强&lt;div&gt;（表观图像）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="364" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Uaya6QPT3qRnmHNDJKRl-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Uaya6QPT3qRnmHNDJKRl-13" value="数据采集层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="294" width="120" height="42" as="geometry" />
         </mxCell>
       </root>
