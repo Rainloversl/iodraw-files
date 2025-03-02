@@ -65,13 +65,16 @@
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-87" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="224" y="672" width="1288" height="224" as="geometry" />
         </mxCell>
+        <mxCell id="Uaya6QPT3qRnmHNDJKRl-128" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Uaya6QPT3qRnmHNDJKRl-88" target="Uaya6QPT3qRnmHNDJKRl-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-88" value="改进层次分析法&lt;div&gt;（基于服役年限）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="468" y="756" width="120" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-125" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Uaya6QPT3qRnmHNDJKRl-92" target="Uaya6QPT3qRnmHNDJKRl-88">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Uaya6QPT3qRnmHNDJKRl-127" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Uaya6QPT3qRnmHNDJKRl-92" target="Uaya6QPT3qRnmHNDJKRl-99">
+        <mxCell id="Uaya6QPT3qRnmHNDJKRl-127" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Uaya6QPT3qRnmHNDJKRl-92" target="Uaya6QPT3qRnmHNDJKRl-95">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-92" value="数据评估与分析层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
