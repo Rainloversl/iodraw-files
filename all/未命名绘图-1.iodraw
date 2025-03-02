@@ -112,38 +112,8 @@
             <mxPoint x="160" y="126" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Uaya6QPT3qRnmHNDJKRl-63" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="616" y="312" width="462" height="168" as="geometry" />
-        </mxCell>
-        <mxCell id="Uaya6QPT3qRnmHNDJKRl-64" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Uaya6QPT3qRnmHNDJKRl-63">
-          <mxGeometry width="462" height="168" as="geometry" />
-        </mxCell>
-        <mxCell id="Uaya6QPT3qRnmHNDJKRl-65" value="潜水作业&lt;div&gt;（视觉检查）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Uaya6QPT3qRnmHNDJKRl-63">
-          <mxGeometry x="21" y="84" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Uaya6QPT3qRnmHNDJKRl-66" value="三维声呐扫描&lt;div&gt;（几何形态）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Uaya6QPT3qRnmHNDJKRl-63">
-          <mxGeometry x="171" y="84" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Uaya6QPT3qRnmHNDJKRl-67" value="水下摄影增强&lt;div&gt;（表观图像）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Uaya6QPT3qRnmHNDJKRl-63">
-          <mxGeometry x="321" y="84" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Uaya6QPT3qRnmHNDJKRl-68" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Uaya6QPT3qRnmHNDJKRl-63" source="Uaya6QPT3qRnmHNDJKRl-69" target="Uaya6QPT3qRnmHNDJKRl-66">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Uaya6QPT3qRnmHNDJKRl-69" value="数据采集层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Uaya6QPT3qRnmHNDJKRl-63">
-          <mxGeometry x="171" y="14" width="120" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="Uaya6QPT3qRnmHNDJKRl-70" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Uaya6QPT3qRnmHNDJKRl-63" source="Uaya6QPT3qRnmHNDJKRl-69" target="Uaya6QPT3qRnmHNDJKRl-65">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="131" y="190" as="sourcePoint" />
-            <mxPoint x="181" y="140" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Uaya6QPT3qRnmHNDJKRl-71" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Uaya6QPT3qRnmHNDJKRl-63" target="Uaya6QPT3qRnmHNDJKRl-67">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="229" y="56" as="sourcePoint" />
-            <mxPoint x="181" y="140" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="Uaya6QPT3qRnmHNDJKRl-72" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="773" y="476" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
