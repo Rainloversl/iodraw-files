@@ -22,7 +22,7 @@
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-8" value="三维声呐扫描&lt;div&gt;（几何形态）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="378" y="364" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Uaya6QPT3qRnmHNDJKRl-9" value="水下摄影增强" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Uaya6QPT3qRnmHNDJKRl-9" value="水下摄影增强&lt;div&gt;（表观图像）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="532" y="364" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
