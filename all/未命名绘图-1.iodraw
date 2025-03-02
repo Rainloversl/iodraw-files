@@ -26,7 +26,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-13" value="数据采集层&lt;div&gt;（人工、光学、声学）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Uaya6QPT3qRnmHNDJKRl-58">
-          <mxGeometry x="171" y="14" width="137" height="42" as="geometry" />
+          <mxGeometry x="154" y="14" width="154" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Uaya6QPT3qRnmHNDJKRl-58" source="Uaya6QPT3qRnmHNDJKRl-13" target="Uaya6QPT3qRnmHNDJKRl-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
