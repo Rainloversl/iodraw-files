@@ -222,7 +222,7 @@
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-120" value="混合推理&lt;div&gt;（规则引擎及大模型）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1036" y="826" width="126" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="Uaya6QPT3qRnmHNDJKRl-121" value="智能评估系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Uaya6QPT3qRnmHNDJKRl-121" value="MAXKB知识库&lt;div&gt;（案例，规范，论文，）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1176" y="826" width="120" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-122" value="生命周期预测模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
