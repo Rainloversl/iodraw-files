@@ -220,11 +220,11 @@
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-99" value="数据处理模块&lt;div style=&quot;font-size: 16px;&quot;&gt;（图片、点云）&lt;/div&gt;" style="rounded=0;html=1;fontFamily=宋体;fontSize=16;whiteSpace=wrap;" vertex="1" parent="Uaya6QPT3qRnmHNDJKRl-142">
           <mxGeometry x="477" y="154" width="120" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="Uaya6QPT3qRnmHNDJKRl-119" value="数据结构化&lt;div style=&quot;font-size: 16px;&quot;&gt;（数据标准化及特征对齐）&lt;/div&gt;" style="rounded=0;html=1;fontFamily=宋体;fontSize=16;whiteSpace=wrap;" vertex="1" parent="Uaya6QPT3qRnmHNDJKRl-142">
+        <mxCell id="Uaya6QPT3qRnmHNDJKRl-119" value="数据结构化&lt;div style=&quot;font-size: 16px;&quot;&gt;（标准化及特征对齐）&lt;/div&gt;" style="rounded=0;html=1;fontFamily=宋体;fontSize=16;whiteSpace=wrap;" vertex="1" parent="Uaya6QPT3qRnmHNDJKRl-142">
           <mxGeometry x="600" y="154" width="179" height="62" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-122" value="生命周期预测模型" style="rounded=0;html=1;fontFamily=宋体;fontSize=16;whiteSpace=wrap;" vertex="1" parent="Uaya6QPT3qRnmHNDJKRl-142">
-          <mxGeometry x="324" y="154" width="120" height="62" as="geometry" />
+          <mxGeometry x="324" y="154" width="132" height="62" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-120" value="混合推理&lt;div style=&quot;font-size: 16px;&quot;&gt;（规则引擎及大模型）&lt;/div&gt;" style="rounded=0;html=1;fontFamily=宋体;fontSize=16;whiteSpace=wrap;" vertex="1" parent="Uaya6QPT3qRnmHNDJKRl-142">
           <mxGeometry x="786" y="154" width="126" height="62" as="geometry" />
