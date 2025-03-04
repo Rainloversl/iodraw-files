@@ -537,6 +537,12 @@
         <mxCell id="HdLEIjOq2ZgTWzOh9ZOO-56" value="参照规范" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="HdLEIjOq2ZgTWzOh9ZOO-54">
           <mxGeometry x="12" y="15.428571428571429" width="40" height="144" as="geometry" />
         </mxCell>
+        <mxCell id="HdLEIjOq2ZgTWzOh9ZOO-57" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="290" as="sourcePoint" />
+            <mxPoint x="490" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
