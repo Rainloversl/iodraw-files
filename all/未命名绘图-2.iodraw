@@ -424,7 +424,7 @@
           <mxGeometry x="12" y="17.998571428571424" width="40" height="144" as="geometry" />
         </mxCell>
         <mxCell id="HdLEIjOq2ZgTWzOh9ZOO-65" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;宋体&quot;&gt;动态扣分&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HdLEIjOq2ZgTWzOh9ZOO-49">
-          <mxGeometry x="670" y="100" width="57" height="60" as="geometry" />
+          <mxGeometry x="670" y="90" width="57" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HdLEIjOq2ZgTWzOh9ZOO-59" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="72" y="90" width="688" height="80" as="geometry" />
@@ -578,7 +578,7 @@
           <mxGeometry x="635" y="90" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HdLEIjOq2ZgTWzOh9ZOO-87" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;宋体&quot;&gt;动态权重&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="130" width="80" height="40" as="geometry" />
+          <mxGeometry x="635" y="130" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
