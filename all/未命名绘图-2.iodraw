@@ -568,7 +568,7 @@
             <mxPoint x="440" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HdLEIjOq2ZgTWzOh9ZOO-61" value="部件层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HdLEIjOq2ZgTWzOh9ZOO-61" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;宋体&quot;&gt;部件层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="110" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
