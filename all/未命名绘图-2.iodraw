@@ -385,13 +385,13 @@
           <mxGeometry x="280" y="200" width="40" height="140" as="geometry" />
         </mxCell>
         <mxCell id="HdLEIjOq2ZgTWzOh9ZOO-11" value="钢筋锈蚀" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="440" y="200" width="40" height="140" as="geometry" />
+          <mxGeometry x="417" y="200" width="40" height="140" as="geometry" />
         </mxCell>
         <mxCell id="HdLEIjOq2ZgTWzOh9ZOO-12" value="混凝土碳化" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="374" y="200" width="40" height="140" as="geometry" />
+          <mxGeometry x="354" y="200" width="40" height="140" as="geometry" />
         </mxCell>
         <mxCell id="HdLEIjOq2ZgTWzOh9ZOO-13" value="冲刷掏空" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="520" y="200" width="40" height="140" as="geometry" />
+          <mxGeometry x="480" y="200" width="40" height="140" as="geometry" />
         </mxCell>
         <mxCell id="HdLEIjOq2ZgTWzOh9ZOO-14" value="变形倾斜" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="580" y="200" width="40" height="140" as="geometry" />
