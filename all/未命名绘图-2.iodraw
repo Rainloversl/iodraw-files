@@ -394,7 +394,7 @@
           <mxGeometry x="440" y="200" width="40" height="140" as="geometry" />
         </mxCell>
         <mxCell id="HdLEIjOq2ZgTWzOh9ZOO-12" value="混凝土碳化" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="339" y="185" width="40" height="140" as="geometry" />
+          <mxGeometry x="270" y="202.5" width="40" height="140" as="geometry" />
         </mxCell>
         <mxCell id="HdLEIjOq2ZgTWzOh9ZOO-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HdLEIjOq2ZgTWzOh9ZOO-2" target="HdLEIjOq2ZgTWzOh9ZOO-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -501,11 +501,16 @@
         <mxCell id="HdLEIjOq2ZgTWzOh9ZOO-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="HdLEIjOq2ZgTWzOh9ZOO-41">
           <mxGeometry width="64" height="175" as="geometry" />
         </mxCell>
+        <mxCell id="HdLEIjOq2ZgTWzOh9ZOO-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="HdLEIjOq2ZgTWzOh9ZOO-41" source="HdLEIjOq2ZgTWzOh9ZOO-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-10" y="5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="HdLEIjOq2ZgTWzOh9ZOO-13" value="冲刷掏空" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;" vertex="1" parent="HdLEIjOq2ZgTWzOh9ZOO-41">
           <mxGeometry x="12" y="15" width="40" height="140" as="geometry" />
         </mxCell>
         <mxCell id="HdLEIjOq2ZgTWzOh9ZOO-45" value="裂缝" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="480" y="399.99857142857144" width="40" height="144" as="geometry" />
+          <mxGeometry x="339" y="199.99857142857144" width="40" height="144" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
