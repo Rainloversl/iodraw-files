@@ -393,6 +393,11 @@
         <mxCell id="HdLEIjOq2ZgTWzOh9ZOO-13" value="冲刷掏空" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="200" width="40" height="140" as="geometry" />
         </mxCell>
+        <mxCell id="HdLEIjOq2ZgTWzOh9ZOO-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HdLEIjOq2ZgTWzOh9ZOO-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="HdLEIjOq2ZgTWzOh9ZOO-14" value="变形倾斜" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="200" width="40" height="140" as="geometry" />
         </mxCell>
