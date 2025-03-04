@@ -363,11 +363,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="HdLEIjOq2ZgTWzOh9ZOO-62" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="15.17" y="180" width="790.83" height="200" as="geometry" />
-        </mxCell>
         <mxCell id="HdLEIjOq2ZgTWzOh9ZOO-49" value="" style="group;fontSize=24;fillColor=#ffff88;strokeColor=#36393d;container=0;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="46" y="180" width="760" height="200" as="geometry" />
+          <mxGeometry x="30" y="180" width="776" height="200" as="geometry" />
         </mxCell>
         <mxCell id="HdLEIjOq2ZgTWzOh9ZOO-59" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="72" y="90" width="708" height="80" as="geometry" />
