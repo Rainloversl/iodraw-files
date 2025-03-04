@@ -549,7 +549,7 @@
           <mxGeometry width="63.99999999999995" height="170" as="geometry" />
         </mxCell>
         <mxCell id="HdLEIjOq2ZgTWzOh9ZOO-11" value="钢筋锈蚀" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="HdLEIjOq2ZgTWzOh9ZOO-58">
-          <mxGeometry x="11.999999999999991" y="16.19047619047619" width="39.99999999999997" height="113.33333333333333" as="geometry" />
+          <mxGeometry x="12" y="16.19" width="40" height="143.81" as="geometry" />
         </mxCell>
         <mxCell id="HdLEIjOq2ZgTWzOh9ZOO-39" value="" style="group;fontSize=16;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="550" y="190" width="64" height="170" as="geometry" />
