@@ -43,12 +43,12 @@
             <Array as="points">
               <mxPoint x="570" y="65" />
               <mxPoint x="570" y="150" />
-              <mxPoint x="470" y="150" />
+              <mxPoint x="480" y="150" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Apno22EmzAdOf99vz109-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="410" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
