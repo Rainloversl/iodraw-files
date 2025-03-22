@@ -39,10 +39,13 @@
         <mxCell id="Apno22EmzAdOf99vz109-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Apno22EmzAdOf99vz109-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="Apno22EmzAdOf99vz109-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.975;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Apno22EmzAdOf99vz109-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="540" y="80" as="sourcePoint" />
-            <mxPoint x="590" y="30" as="targetPoint" />
+            <mxPoint x="570" y="130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="570" y="65" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
