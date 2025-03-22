@@ -94,10 +94,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Apno22EmzAdOf99vz109-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="Apno22EmzAdOf99vz109-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.489;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Apno22EmzAdOf99vz109-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="150" y="190" as="sourcePoint" />
-            <mxPoint x="200" y="140" as="targetPoint" />
+            <mxPoint x="608" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
