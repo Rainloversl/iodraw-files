@@ -16,7 +16,7 @@
         <mxCell id="QDy9wwsxI5oDl7lnBQCD-4" value="部件评分" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QDy9wwsxI5oDl7lnBQCD-5" value="数据采集" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="QDy9wwsxI5oDl7lnBQCD-5" value="下部结构评分" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Apno22EmzAdOf99vz109-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
