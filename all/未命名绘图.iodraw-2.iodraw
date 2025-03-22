@@ -47,6 +47,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Apno22EmzAdOf99vz109-6" value="发生" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Apno22EmzAdOf99vz109-4">
+          <mxGeometry x="-0.4733" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Apno22EmzAdOf99vz109-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="220" width="120" height="60" as="geometry" />
         </mxCell>
