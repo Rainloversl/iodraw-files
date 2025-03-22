@@ -28,9 +28,9 @@
         <mxCell id="Apno22EmzAdOf99vz109-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Apno22EmzAdOf99vz109-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="450" as="sourcePoint" />
-            <mxPoint x="360" y="160" as="targetPoint" />
+            <mxPoint x="360" y="200" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="360" y="60" />
+              <mxPoint x="360" y="65" />
             </Array>
           </mxGeometry>
         </mxCell>
