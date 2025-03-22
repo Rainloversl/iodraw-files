@@ -70,8 +70,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Apno22EmzAdOf99vz109-12" value="技术状况分级" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="260" width="120" height="60" as="geometry" />
+        <mxCell id="Apno22EmzAdOf99vz109-12" value="生成评估报告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="350" width="126" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Apno22EmzAdOf99vz109-13" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="30" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
