@@ -76,15 +76,6 @@
         <mxCell id="Apno22EmzAdOf99vz109-8" value="评分校正" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Apno22EmzAdOf99vz109-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.483;exitY=0.983;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.508;entryY=-0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Apno22EmzAdOf99vz109-8" target="Apno22EmzAdOf99vz109-5">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="530.96" y="218.01999999999998" as="sourcePoint" />
-            <mxPoint x="500" y="290" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="568" y="230" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Apno22EmzAdOf99vz109-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Apno22EmzAdOf99vz109-12" target="Apno22EmzAdOf99vz109-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -110,6 +101,12 @@
               <mxPoint x="330" y="10" />
               <mxPoint x="475" y="10" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Apno22EmzAdOf99vz109-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.492;exitY=0.983;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Apno22EmzAdOf99vz109-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="320" as="sourcePoint" />
+            <mxPoint x="480" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
