@@ -43,6 +43,9 @@
         <mxCell id="Apno22EmzAdOf99vz109-5" value="技术状况分级" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="477" y="340" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Apno22EmzAdOf99vz109-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Apno22EmzAdOf99vz109-8" target="Apno22EmzAdOf99vz109-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Apno22EmzAdOf99vz109-8" value="评分校正" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="570" y="230" width="120" height="40" as="geometry" />
         </mxCell>
