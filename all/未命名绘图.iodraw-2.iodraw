@@ -29,7 +29,7 @@
           <mxGeometry x="200" y="380" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QDy9wwsxI5oDl7lnBQCD-5" value="下部结构评分" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="200" y="450" width="120" height="30" as="geometry" />
+          <mxGeometry x="200" y="450" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Apno22EmzAdOf99vz109-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="200" y="100" width="120" height="30" as="geometry" />
