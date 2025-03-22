@@ -53,6 +53,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Apno22EmzAdOf99vz109-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Apno22EmzAdOf99vz109-5" target="Apno22EmzAdOf99vz109-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Apno22EmzAdOf99vz109-5" value="技术状况分级" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="250" width="120" height="60" as="geometry" />
         </mxCell>
@@ -82,11 +85,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Apno22EmzAdOf99vz109-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Apno22EmzAdOf99vz109-12" target="Apno22EmzAdOf99vz109-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Apno22EmzAdOf99vz109-12" value="生成评估报告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="350" width="126" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Apno22EmzAdOf99vz109-13" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="414" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Apno22EmzAdOf99vz109-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.475;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.475;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Apno22EmzAdOf99vz109-1" target="QDy9wwsxI5oDl7lnBQCD-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
