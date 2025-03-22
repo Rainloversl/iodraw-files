@@ -82,7 +82,7 @@
             <Array as="points">
               <mxPoint x="260" y="650" />
               <mxPoint x="380" y="650" />
-              <mxPoint x="380" y="90" />
+              <mxPoint x="380" y="60" />
               <mxPoint x="525" y="90" />
             </Array>
           </mxGeometry>
