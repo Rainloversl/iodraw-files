@@ -50,10 +50,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Apno22EmzAdOf99vz109-12" value="生成评估报告" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="477" y="400" width="120" height="40" as="geometry" />
+          <mxGeometry x="477" y="410" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Apno22EmzAdOf99vz109-13" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="477" y="470" width="120" height="40" as="geometry" />
+          <mxGeometry x="477" y="480" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Apno22EmzAdOf99vz109-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.475;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.475;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=宋体;fontSize=16;" edge="1" parent="1" source="Apno22EmzAdOf99vz109-1" target="QDy9wwsxI5oDl7lnBQCD-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -101,6 +101,12 @@
         <mxCell id="Apno22EmzAdOf99vz109-31" value="发生" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=宋体;fontSize=16;" vertex="1" connectable="0" parent="Apno22EmzAdOf99vz109-29">
           <mxGeometry x="0.0698" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Apno22EmzAdOf99vz109-32" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="190" as="sourcePoint" />
+            <mxPoint x="200" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
