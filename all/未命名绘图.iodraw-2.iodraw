@@ -41,7 +41,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Apno22EmzAdOf99vz109-5" value="技术状况分级" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="477" y="330" width="120" height="40" as="geometry" />
+          <mxGeometry x="477" y="340" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Apno22EmzAdOf99vz109-8" value="评分校正" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="570" y="230" width="120" height="40" as="geometry" />
@@ -70,16 +70,6 @@
               <mxPoint x="380" y="520" />
               <mxPoint x="380" y="60" />
               <mxPoint x="538" y="60" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Apno22EmzAdOf99vz109-25" value="" style="endArrow=none;html=1;rounded=0;entryX=0.492;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=宋体;fontSize=16;" edge="1" parent="1" target="Apno22EmzAdOf99vz109-8">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="540" y="330" as="sourcePoint" />
-            <mxPoint x="510" y="350" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="537" y="310" />
-              <mxPoint x="629" y="310" />
             </Array>
           </mxGeometry>
         </mxCell>
