@@ -118,7 +118,7 @@
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-149" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="24.4" y="324" width="756" height="238" as="geometry" />
         </mxCell>
-        <mxCell id="Uaya6QPT3qRnmHNDJKRl-23" value="" style="rounded=0;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=宋体;fontSize=16;whiteSpace=wrap;" parent="Uaya6QPT3qRnmHNDJKRl-149" vertex="1">
+        <mxCell id="Uaya6QPT3qRnmHNDJKRl-23" value="" style="rounded=0;html=1;fillColor=none;strokeColor=#d79b00;fontFamily=宋体;fontSize=16;whiteSpace=wrap;" parent="Uaya6QPT3qRnmHNDJKRl-149" vertex="1">
           <mxGeometry width="756" height="238" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-73" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=宋体;fontSize=16;" parent="Uaya6QPT3qRnmHNDJKRl-149" source="Uaya6QPT3qRnmHNDJKRl-72" target="Uaya6QPT3qRnmHNDJKRl-54" edge="1">
@@ -226,7 +226,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Uaya6QPT3qRnmHNDJKRl-150" value="" style="group" parent="1" vertex="1" connectable="0">
+        <mxCell id="Uaya6QPT3qRnmHNDJKRl-150" value="" style="group;fillColor=none;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="22.4" y="584.5" width="760" height="264" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-87" value="" style="rounded=0;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=宋体;fontSize=16;whiteSpace=wrap;" parent="Uaya6QPT3qRnmHNDJKRl-150" vertex="1">
