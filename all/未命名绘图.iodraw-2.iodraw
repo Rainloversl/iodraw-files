@@ -61,22 +61,6 @@
             <mxPoint x="510" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Apno22EmzAdOf99vz109-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.021;exitY=0.511;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=宋体;fontSize=16;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Apno22EmzAdOf99vz109-2" target="Apno22EmzAdOf99vz109-5" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80" y="180" as="sourcePoint" />
-            <mxPoint x="468" y="320" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="380" y="136" />
-              <mxPoint x="380" y="300" />
-              <mxPoint x="468" y="300" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Apno22EmzAdOf99vz109-30" value="未发生" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=宋体;fontSize=16;" parent="Apno22EmzAdOf99vz109-28" vertex="1" connectable="0">
-          <mxGeometry x="-0.3093" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Apno22EmzAdOf99vz109-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.489;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=宋体;fontSize=16;" parent="1" source="Apno22EmzAdOf99vz109-2" target="Apno22EmzAdOf99vz109-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" y="180" as="sourcePoint" />
@@ -91,7 +75,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FtG47vN-Zbli4GN1dTWW-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="QDy9wwsxI5oDl7lnBQCD-5">
+        <mxCell id="FtG47vN-Zbli4GN1dTWW-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="450" as="sourcePoint" />
             <mxPoint x="440" y="400" as="targetPoint" />
