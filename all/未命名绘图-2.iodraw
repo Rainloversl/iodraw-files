@@ -366,7 +366,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="HdLEIjOq2ZgTWzOh9ZOO-49" value="" style="group;fontSize=24;fillColor=none;strokeColor=#ffffff;container=0;" parent="1" vertex="1" connectable="0">
+        <mxCell id="HdLEIjOq2ZgTWzOh9ZOO-49" value="" style="group;fontSize=24;fillColor=none;strokeColor=#FF6666;container=0;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="30" y="180" width="776" height="200" as="geometry" />
         </mxCell>
         <mxCell id="HdLEIjOq2ZgTWzOh9ZOO-54" value="" style="group;fontSize=24;" parent="1" vertex="1" connectable="0">
@@ -408,7 +408,7 @@
         <mxCell id="HdLEIjOq2ZgTWzOh9ZOO-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#d79b00;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="40" y="190" width="312.44" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="HdLEIjOq2ZgTWzOh9ZOO-59" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#666666;fontSize=24;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="HdLEIjOq2ZgTWzOh9ZOO-59" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=default;fontSize=24;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="72" y="90" width="708" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HdLEIjOq2ZgTWzOh9ZOO-2" value="桥梁水下结构评价体系" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=24;" parent="1" vertex="1">
