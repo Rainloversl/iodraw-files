@@ -372,7 +372,7 @@
         <mxCell id="HdLEIjOq2ZgTWzOh9ZOO-54" value="" style="group;fontSize=24;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="640" y="190" width="64" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="HdLEIjOq2ZgTWzOh9ZOO-55" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontSize=24;fontColor=#ffffff;" parent="HdLEIjOq2ZgTWzOh9ZOO-54" vertex="1">
+        <mxCell id="HdLEIjOq2ZgTWzOh9ZOO-55" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#2D7600;fontSize=24;fontColor=#ffffff;" parent="HdLEIjOq2ZgTWzOh9ZOO-54" vertex="1">
           <mxGeometry width="64" height="170" as="geometry" />
         </mxCell>
         <mxCell id="HdLEIjOq2ZgTWzOh9ZOO-56" value="参照规范" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=24;" parent="HdLEIjOq2ZgTWzOh9ZOO-54" vertex="1">
@@ -381,7 +381,7 @@
         <mxCell id="HdLEIjOq2ZgTWzOh9ZOO-39" value="" style="group;fontSize=24;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="550" y="190" width="64" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="HdLEIjOq2ZgTWzOh9ZOO-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=24;" parent="HdLEIjOq2ZgTWzOh9ZOO-39" vertex="1">
+        <mxCell id="HdLEIjOq2ZgTWzOh9ZOO-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#9673a6;fontSize=24;" parent="HdLEIjOq2ZgTWzOh9ZOO-39" vertex="1">
           <mxGeometry width="64" height="170" as="geometry" />
         </mxCell>
         <mxCell id="HdLEIjOq2ZgTWzOh9ZOO-14" value="变形倾斜" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=24;" parent="HdLEIjOq2ZgTWzOh9ZOO-39" vertex="1">
