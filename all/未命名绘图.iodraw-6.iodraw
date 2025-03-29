@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="1096" dy="374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1289" dy="440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,22 +23,28 @@
           <mxGeometry x="690" y="90" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="roDU6pzLYFOFIjyJ9gbY-10" value="用户" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="50" y="310" width="90" height="40" as="geometry" />
+          <mxGeometry x="50" y="340" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="roDU6pzLYFOFIjyJ9gbY-11" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 16px;&quot;&gt;MaxKB&lt;/font&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;知识库&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="180" y="310" width="90" height="40" as="geometry" />
+          <mxGeometry x="180" y="340" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="roDU6pzLYFOFIjyJ9gbY-12" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 16px;&quot;&gt;Qwen-Long&lt;/font&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;基础模型&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="310" y="310" width="90" height="40" as="geometry" />
+          <mxGeometry x="310" y="340" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="roDU6pzLYFOFIjyJ9gbY-13" value="数据处理模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="435" y="310" width="100" height="40" as="geometry" />
+          <mxGeometry x="435" y="340" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="roDU6pzLYFOFIjyJ9gbY-14" value="提示词工程" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="570" y="310" width="90" height="40" as="geometry" />
+          <mxGeometry x="570" y="340" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="roDU6pzLYFOFIjyJ9gbY-15" value="数据源&lt;div style=&quot;font-size: 16px;&quot;&gt;规范、案列等&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="690" y="310" width="110" height="40" as="geometry" />
+          <mxGeometry x="690" y="340" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="roDU6pzLYFOFIjyJ9gbY-16" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="roDU6pzLYFOFIjyJ9gbY-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="280" as="sourcePoint" />
+            <mxPoint x="450" y="230" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
