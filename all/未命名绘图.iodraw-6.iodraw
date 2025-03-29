@@ -187,25 +187,25 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7UuH9cdQDs7y4nDzf5dT-1" value="原始数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7UuH9cdQDs7y4nDzf5dT-1" value="原始数据" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="30" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7UuH9cdQDs7y4nDzf5dT-2" value="数据类型识别" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7UuH9cdQDs7y4nDzf5dT-2" value="数据类型识别" style="rhombus;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="200" y="160" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7UuH9cdQDs7y4nDzf5dT-3" value="特征提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7UuH9cdQDs7y4nDzf5dT-3" value="特征提取" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="340" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7UuH9cdQDs7y4nDzf5dT-4" value="标准化表格" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7UuH9cdQDs7y4nDzf5dT-4" value="标准化表格" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="340" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7UuH9cdQDs7y4nDzf5dT-5" value="多模态对齐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7UuH9cdQDs7y4nDzf5dT-5" value="多模态对齐" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="490" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7UuH9cdQDs7y4nDzf5dT-6" value="融合特征存储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7UuH9cdQDs7y4nDzf5dT-6" value="融合特征存储" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="640" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7UuH9cdQDs7y4nDzf5dT-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7UuH9cdQDs7y4nDzf5dT-7" value="评估模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="800" y="160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
