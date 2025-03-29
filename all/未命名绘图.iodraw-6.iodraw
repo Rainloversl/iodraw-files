@@ -110,7 +110,7 @@
         </mxCell>
         <mxCell id="roDU6pzLYFOFIjyJ9gbY-34" value="返回结构化JSON" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=宋体;fontSize=16;" vertex="1" connectable="0" parent="roDU6pzLYFOFIjyJ9gbY-25">
           <mxGeometry x="-0.1227" y="1" relative="1" as="geometry">
-            <mxPoint y="-1" as="offset" />
+            <mxPoint x="-10" y="-21" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="roDU6pzLYFOFIjyJ9gbY-26" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=宋体;fontSize=16;" edge="1" parent="1">
@@ -121,7 +121,7 @@
         </mxCell>
         <mxCell id="roDU6pzLYFOFIjyJ9gbY-35" value="组装提示词" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=宋体;fontSize=16;" vertex="1" connectable="0" parent="roDU6pzLYFOFIjyJ9gbY-26">
           <mxGeometry x="-0.1868" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="26" y="-22" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="roDU6pzLYFOFIjyJ9gbY-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -132,7 +132,7 @@
         </mxCell>
         <mxCell id="roDU6pzLYFOFIjyJ9gbY-36" value="发送分析请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=宋体;fontSize=16;" vertex="1" connectable="0" parent="roDU6pzLYFOFIjyJ9gbY-27">
           <mxGeometry x="0.1173" relative="1" as="geometry">
-            <mxPoint y="1" as="offset" />
+            <mxPoint x="20" y="-20" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="roDU6pzLYFOFIjyJ9gbY-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
