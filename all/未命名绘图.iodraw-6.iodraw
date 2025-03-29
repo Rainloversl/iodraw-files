@@ -288,7 +288,7 @@
         <mxCell id="LJ0Weeh1AHvLpYCsbrV0-2" value="数据类型" style="rhombus;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="184" y="150" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="LJ0Weeh1AHvLpYCsbrV0-3" value="Qwen-Long模型" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="LJ0Weeh1AHvLpYCsbrV0-3" value="&lt;font face=&quot;Times New Roman&quot;&gt;Qwen-Long&lt;/font&gt;模型" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="340" y="140" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LJ0Weeh1AHvLpYCsbrV0-4" value="规则引擎" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
@@ -296,9 +296,6 @@
         </mxCell>
         <mxCell id="LJ0Weeh1AHvLpYCsbrV0-5" value="多模态对齐" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="492" y="180" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="LJ0Weeh1AHvLpYCsbrV0-6" value="融合特征存储" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="646" y="180" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LJ0Weeh1AHvLpYCsbrV0-7" value="评估模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="800" y="180" width="80" height="40" as="geometry" />
@@ -309,15 +306,15 @@
             <mxPoint x="180" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LJ0Weeh1AHvLpYCsbrV0-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LJ0Weeh1AHvLpYCsbrV0-5" target="LJ0Weeh1AHvLpYCsbrV0-6">
+        <mxCell id="LJ0Weeh1AHvLpYCsbrV0-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LJ0Weeh1AHvLpYCsbrV0-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="430" y="250" as="sourcePoint" />
-            <mxPoint x="480" y="200" as="targetPoint" />
+            <mxPoint x="646" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LJ0Weeh1AHvLpYCsbrV0-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LJ0Weeh1AHvLpYCsbrV0-6" target="LJ0Weeh1AHvLpYCsbrV0-7">
+        <mxCell id="LJ0Weeh1AHvLpYCsbrV0-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="LJ0Weeh1AHvLpYCsbrV0-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="430" y="250" as="sourcePoint" />
+            <mxPoint x="766" y="200" as="sourcePoint" />
             <mxPoint x="480" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
