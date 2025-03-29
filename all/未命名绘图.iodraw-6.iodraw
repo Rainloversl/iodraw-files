@@ -254,7 +254,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7UuH9cdQDs7y4nDzf5dT-16" value="PDF/图像" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=宋体;fontSize=16;" vertex="1" connectable="0" parent="7UuH9cdQDs7y4nDzf5dT-14">
+        <mxCell id="7UuH9cdQDs7y4nDzf5dT-16" value="&lt;font face=&quot;Times New Roman&quot;&gt;PDF&lt;/font&gt;/图像" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=宋体;fontSize=16;" vertex="1" connectable="0" parent="7UuH9cdQDs7y4nDzf5dT-14">
           <mxGeometry x="0.0331" y="2" relative="1" as="geometry">
             <mxPoint x="1" y="-18" as="offset" />
           </mxGeometry>
@@ -271,7 +271,7 @@
         </mxCell>
         <mxCell id="7UuH9cdQDs7y4nDzf5dT-17" value="数值表格" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=宋体;fontSize=16;" vertex="1" connectable="0" parent="7UuH9cdQDs7y4nDzf5dT-15">
           <mxGeometry x="-0.0925" y="1" relative="1" as="geometry">
-            <mxPoint x="1" as="offset" />
+            <mxPoint x="13" y="21" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
