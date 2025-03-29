@@ -19,7 +19,7 @@
         <mxCell id="roDU6pzLYFOFIjyJ9gbY-6" value="提示词工程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="roDU6pzLYFOFIjyJ9gbY-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="roDU6pzLYFOFIjyJ9gbY-8" value="数据源&lt;div&gt;规范、案列等&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="90" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
