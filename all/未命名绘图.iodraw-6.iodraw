@@ -23,22 +23,22 @@
           <mxGeometry x="690" y="90" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="roDU6pzLYFOFIjyJ9gbY-10" value="用户" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="50" y="460" width="90" height="40" as="geometry" />
+          <mxGeometry x="50" y="530" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="roDU6pzLYFOFIjyJ9gbY-11" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 16px;&quot;&gt;MaxKB&lt;/font&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;知识库&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="180" y="460" width="90" height="40" as="geometry" />
+          <mxGeometry x="180" y="530" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="roDU6pzLYFOFIjyJ9gbY-12" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 16px;&quot;&gt;Qwen-Long&lt;/font&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;基础模型&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="310" y="460" width="90" height="40" as="geometry" />
+          <mxGeometry x="310" y="530" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="roDU6pzLYFOFIjyJ9gbY-13" value="数据处理模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="435" y="460" width="100" height="40" as="geometry" />
+          <mxGeometry x="435" y="530" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="roDU6pzLYFOFIjyJ9gbY-14" value="提示词工程" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="570" y="460" width="90" height="40" as="geometry" />
+          <mxGeometry x="570" y="530" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="roDU6pzLYFOFIjyJ9gbY-15" value="数据源&lt;div style=&quot;font-size: 16px;&quot;&gt;规范、案列等&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="690" y="460" width="110" height="40" as="geometry" />
+          <mxGeometry x="690" y="530" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="roDU6pzLYFOFIjyJ9gbY-16" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=1.5;" edge="1" parent="1" source="roDU6pzLYFOFIjyJ9gbY-10" target="roDU6pzLYFOFIjyJ9gbY-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -121,6 +121,12 @@
         <mxCell id="roDU6pzLYFOFIjyJ9gbY-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="740" y="400" as="sourcePoint" />
+            <mxPoint x="360" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="roDU6pzLYFOFIjyJ9gbY-30" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="390" as="sourcePoint" />
             <mxPoint x="330" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
