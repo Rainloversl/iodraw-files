@@ -152,6 +152,11 @@
             <mxPoint x="360" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="roDU6pzLYFOFIjyJ9gbY-38" value="返回标准数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="roDU6pzLYFOFIjyJ9gbY-29">
+          <mxGeometry x="-0.0719" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="roDU6pzLYFOFIjyJ9gbY-30" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="350" y="440" as="sourcePoint" />
