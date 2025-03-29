@@ -384,9 +384,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LJ0Weeh1AHvLpYCsbrV0-26" value="置信度≥0.7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=宋体;fontSize=16;" vertex="1" connectable="0" parent="LJ0Weeh1AHvLpYCsbrV0-24">
+        <mxCell id="LJ0Weeh1AHvLpYCsbrV0-26" value="置信度&lt;font face=&quot;Times New Roman&quot;&gt;≥0.7&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=宋体;fontSize=16;" vertex="1" connectable="0" parent="LJ0Weeh1AHvLpYCsbrV0-24">
           <mxGeometry x="0.0983" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="17" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
