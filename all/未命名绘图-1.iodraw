@@ -160,7 +160,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xO7KPwdJL5r29Uum7F04-81" value="数据评估" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=宋体;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="-54.37" y="701" width="34.37" height="40" as="geometry" />
+          <mxGeometry x="-18.129999999999995" y="701" width="34.37" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Uaya6QPT3qRnmHNDJKRl-36" value="数据处理&lt;div style=&quot;font-size: 16px;&quot;&gt;（PCL及处理算法）&lt;/div&gt;" style="rounded=0;html=1;fontFamily=宋体;fontSize=16;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="513.68" y="185" width="150.7" height="40" as="geometry" />
@@ -516,7 +516,7 @@
           <mxGeometry x="33" y="890" width="760" height="130" as="geometry" />
         </mxCell>
         <mxCell id="xO7KPwdJL5r29Uum7F04-82" value="方法验证" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=宋体;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="40" y="896" width="153" height="40" as="geometry" />
+          <mxGeometry x="-18.130000000000003" y="920" width="44.02" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
