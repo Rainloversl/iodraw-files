@@ -516,7 +516,7 @@
           <mxGeometry x="33" y="890" width="760" height="130" as="geometry" />
         </mxCell>
         <mxCell id="xO7KPwdJL5r29Uum7F04-82" value="方法验证" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=宋体;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="-11.020000000000003" y="935" width="44.02" height="40" as="geometry" />
+          <mxGeometry x="-15.030000000000003" y="936" width="44.02" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QblsUYhgt2067UeT5dkw-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
